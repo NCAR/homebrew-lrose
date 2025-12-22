@@ -6,9 +6,9 @@ class LroseVortrac < Formula
 
   homepage 'https://github.com/mmbell/vortrac'
 
-  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20250811/lrose-vortrac-20250811.src.tgz'
-  version 'vortrac-20250811'
-  sha256 'abbf4eee622c5b62eb80abaa883074aef4ee379089da786453019a89f5569bf7'
+  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20250811/lrose-vortrac-20251222.src.tgz'
+  version 'vortrac-20251222'
+  sha256 '945464d4fed1e644991dabf39d124d10880e7d63849de0bce62de333b6ab602d'
 
   depends_on 'libx11'
   depends_on 'libxext'
