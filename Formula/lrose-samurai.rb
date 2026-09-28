@@ -6,9 +6,9 @@ class LroseSamurai < Formula
 
   homepage 'https://github.com/mmbell/samurai'
 
-  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20250811/lrose-samurai-20250811.src.tgz'
-  version 'samurai-20250811'
-  sha256 '47480e203c8fca2a18da49e0d6ce13278b719bb5303655dddeffe6af6ba21ea3'
+  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20260926/lrose-samurai-20260926.src.tgz'
+  version 'samurai-20260926'
+  sha256 '10a36490c025892706f0ae7ab753695d78d9dc0a4ce8410e6a77242d390fc9e8'
 
   depends_on 'hdf5' => 'enable-cxx'
   depends_on 'netcdf' => 'enable-cxx-compat'

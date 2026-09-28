@@ -6,9 +6,9 @@ class LroseFractl < Formula
 
   homepage 'https://github.com/mmbell/fractl'
 
-  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20250811/lrose-fractl-20250811.src.tgz'
-  version 'fractl-20250811'
-  sha256 'af8a8bae52030687eb6d913d7cea78301ee473494749467bf7820872d69ace7f'
+  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20260926/lrose-fractl-20260926.src.tgz'
+  version 'fractl-20260926'
+  sha256 '94d76ebfc225e5417d3eded6075e0983523eb5ebbe7e20cd0f29efa2babe2cfc'
 
   depends_on "cmake" => :build
   depends_on "pkg-config" => :build
