@@ -6,9 +6,9 @@ class LroseCore < Formula
 
   homepage 'https://github.com/NCAR/lrose-core'
 
-  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20260926/lrose-core-20260926.src.mac_osx.tgz'
-  version 'core-20260926'
-  sha256 '1ed3b3b8e0f47ed4ae3c1947fdddb0a88fdd2625b6bada58cdae972a76ba3a52'
+  url 'https://github.com/NCAR/lrose-core/releases/download/lrose-core-20260926/lrose-core-20260930.src.mac_osx.tgz'
+  version 'core-20260930'
+  sha256 '5bf6a1ce3b2277d6f590ae8667df69db743ba4e7ad9fa636d61c1519e18c8d85'
   license 'BSD'
 
   depends_on "cmake" => :build
